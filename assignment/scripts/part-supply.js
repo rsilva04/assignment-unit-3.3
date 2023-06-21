@@ -45,8 +45,6 @@ for (let i=0; i<supplyChanges.length; i++) {
 }
 
 
-
-
 // STRETCH GOALS
 console.log('---  Stretch Goals  ---');
 // 7. Rewrite the `for` loop from #6 as a `for of` loop. 
